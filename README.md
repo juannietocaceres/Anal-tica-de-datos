@@ -1,2 +1,2 @@
-# Anal-tica-de-datos
+# Analitica-de-datos
 Curso de analítica de datos
